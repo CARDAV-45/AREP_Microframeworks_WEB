@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Servidor Web AREP</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <h1>Servidor Web AREP</h1>
+    <p>Microframework para servicios REST.</p>
+    
+    <h2>Endpoints disponibles:</h2>
+    <ul>
+        <li><a href="/App/hello?name=Pedro">/App/hello?name=Pedro</a></li>
+        <li><a href="/App/pi">/App/pi</a></li>
+    </ul>
+    
+    <h2>Prueba con tu nombre:</h2>
+    <form id="form">
+        <input type="text" id="nombre" placeholder="Tu nombre" value="Mundo">
+        <button type="submit">Enviar</button>
+    </form>
+    <div id="resultado"></div>
+    
+    <script src="/app.js"></script>
+</body>
+</html>

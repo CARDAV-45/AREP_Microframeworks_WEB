@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+input {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+button {
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+#resultado {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    display: none;
+}
+
+#resultado.show {
+    display: block;
+    background: #f0f0f0;
+}
