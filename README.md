@@ -423,6 +423,11 @@ Respuesta del endpoint REST que retorna el valor de PI:
 
 - **Java Documentation**: [Java Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/)
 - **HTTP Protocol**: [RFC 7230 - HTTP/1.1 Message Syntax](https://tools.ietf.org/html/rfc7230)
+- **HTTP Overview**: [MDN Web Docs - HTTP Guides Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview)
 - **Lambda Expressions**: [Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)
+- **Presentación del profe Diseño 00**: [Presentación - OO Design, Generics y Lambda Expressions](https://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/304858/mod_resource/content/0/06OODesignGenericsLambdaExpressions.pdf)
 - **Maven**: [Apache Maven Documentation](https://maven.apache.org/guides/)
 - **JUnit 5**: [JUnit Platform Documentation](https://junit.org/junit5/)
+- **Network Architecture**: [Names, Network, Client, Service](https://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/222974/mod_resource/content/0/NamesNetworkClientService.pdf)
+- **HTTP & REST Video**: [YouTube - HTTP Protocol Overview](https://www.youtube.com/watch?v=5EYcz9hBwiY)
+- **Java Web Development Video**: [YouTube - Java Web Services](https://www.youtube.com/watch?v=RMsPU55q4UY)
